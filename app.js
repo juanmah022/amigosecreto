@@ -3,6 +3,7 @@ let amigos = [];
 console.log ();
 
 function agregarNombre() {
-let nombreAmigo = document.getElementById("amigo").Value
-
+let nombreAmigo = document.querySelector("amigo").Value;
+alert("por favor, inserte nombre");
+else ()
 }
